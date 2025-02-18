@@ -1,0 +1,24 @@
+.wrapper {
+    width: 100vw;                    /* Full viewport width */
+    height: 100vh;                   /* Full viewport height */
+    background-image: url('/background3.png');
+    background-size: cover;          /* Fills the screen (may crop the image) */
+    background-position: center;     /* Center the background image */
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+  }
+  
+  
+  
+  header {
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 1.5rem;
+  }
+      
