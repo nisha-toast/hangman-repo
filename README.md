@@ -9,3 +9,6 @@ This is a work in progress.
 4. In the Java IDE, run the project with maven build, using goals: `spring-boot:run`.
 5. Switch to the IDE with the opened front end project, run the project in the terminal with `npm run dev`.
 6. The game should load on 'http://localhost:8091'.
+
+
+![screenshot](blob/image-1.png)
