@@ -1,6 +1,6 @@
-# Hangman witj ReactJS and Java SpringBoot
-
 This is a work in progress. 
+Completed:
+- Front end interface
 
-# Steps to run this locally:
-1. 
+To consider:
+- Deployment so it won't be a locally hosted WebApp game
